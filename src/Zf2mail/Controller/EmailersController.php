@@ -6,18 +6,6 @@ use Zend\Mvc\Controller\AbstractActionController;
 class EmailersController extends AbstractActionController
 {
 
-    protected $mailConfig;
-
-    function __construct()
-    {
-        parent::__construct();
-    }
-
-    public function indexAction()
-    {
-        
-    }
-
     /**
      *
      * @param type $options
