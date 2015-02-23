@@ -1,0 +1,14 @@
+{
+    "name": "tahmina8765/zf2mail",
+    "description": "A zend framework 2 simple email sending module",
+    "authors": [
+        {
+            "name": "Tahmina Khatoon",
+            "email": "tahmina8765@yahoo.com",
+            "homepage": "http://tahmina.lifencolor.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
